@@ -9,6 +9,6 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="https://youtu.be/hMR0WZo8PTk" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="www.youtu.be/hMR0WZo8PTk" frameborder="0"> </iframe>
 
 
