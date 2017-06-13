@@ -34,4 +34,4 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of beautifullife](https://manishmehra.github.io/beautifullife/) hosted on GitHub.
+[Beautiful Life](https://manishmehra.github.io/beautifullife/)
